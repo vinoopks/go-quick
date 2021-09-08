@@ -9,7 +9,7 @@ I didn't have to worry much about the cost, since Google is so generous with the
 
 One fine morning, I was scrolling through medium, and I came across this [post](https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c) 
 
-I was quite amazed to see the performance comparison of Go vs Java.  
+**I was quite amazed to see the performance comparison of Go vs Java.**  
 As per the post,  Go wins hands down in  most of the areas. Yes, Java had advantage around computations, but for a containerized application, the artifact size of Go application, was so minimal compared to java. I am not even starting about the memory usage. 
 
 Since then, I wanted to learn Go!!
