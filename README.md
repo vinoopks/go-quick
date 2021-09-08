@@ -18,5 +18,5 @@ Since then, I wanted to learn Go!!
 I found the syntax of Go is really easy to pick up. I guess, I would be having some troubles in the correct usage of pointers, since I am really more of a Java person.
 
 This is my attempt of learning Go and I intend to convert some of my microservices to Go. 
-I am quite excited.  I would be starting from the very basic. The documentation available in https://golang.org/ would be a good starting place. Parallelly I would be learning from YouTube as well. I am planning to every project I create in this repository starting from HelloWorld. 
+I am quite excited.  I would be starting from the very basic. The documentation available in https://golang.org/ would be a good starting place. Parallelly I would be learning from YouTube as well. I am planning to every project I create in this repository starting from HelloWorld.  
 
