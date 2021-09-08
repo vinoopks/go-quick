@@ -12,5 +12,11 @@ func main() {
 	fmt.Println("Hello, World!")
 	fmt.Println(quote.Go())
 	//from greetings module
-	fmt.Println(greetings.Hello("Peter"))
+	greeting, error := greetings.Hello("Peter")
+	if error != nil {
+		fmt.Println(greeting)
+
+	}
+	fmt.Println(greeting)
+
 }
