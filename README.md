@@ -1,4 +1,4 @@
-# Learn Go in One-Go
+# Learn Go in One-Go 🐱‍💻
 
  ### Flashback:
   I ❤️ Java! It has always been my go to language for any problem.  It is fast, reliable and once  you learn it, it just comes to you! Its awesome! 
